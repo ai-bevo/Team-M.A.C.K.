@@ -81,6 +81,9 @@ target/
 profile_default/
 ipython_config.py
 
+#apikey
+config.py
+kristen_space.ipynb
 # pyenv
 .python-version
 
