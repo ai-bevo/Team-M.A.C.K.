@@ -1,7 +1,5 @@
 # Team M.A.C.K. Repo
 
-# Team M.A.C.K. Repo
-
 Data Visualization Bootcamp—Team Project One
 
 Team M.A.C.K: Michael Lambert, Allan Ivey, Caroline Sudhakar and Kristen Pollok
