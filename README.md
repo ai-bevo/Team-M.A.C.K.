@@ -65,9 +65,6 @@ Writing to .csv to easily browse datasets
 Locate bad data (ex from data ‘County median income’:  -$66666666)
 Dropped 9 rows out of 3142
 
-
-
-
 NULL HYPOTHESIS ONE
 
 Data Visualization 
